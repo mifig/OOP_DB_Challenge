@@ -38,7 +38,7 @@ AVG_SALARIES = {
   nurse: 1_200,
   football_player: 300_000,
   physician: 3_000,
-  musician: 0.001
+  musician: 1
 }
 
 def good_salary(person)
