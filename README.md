@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/gabrielassanuma/OOP_DB_batch1241_15052023
+  git clone git@github.com:mifig/OOP_DB_Challenge.git
 ```
 
 Go to the project directory
