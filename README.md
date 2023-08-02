@@ -11,7 +11,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd OOP_DB_batch1241_15052023/challenge
+  cd OOP_DB_Challenge/challenge
 ```
 
 Open on vs-code
